@@ -10,6 +10,7 @@
     <orderEntry type="library" exported="" name="mysql-connector-j-8.0.31" level="project" />
     <orderEntry type="library" exported="" name="lib" level="project" />
     <orderEntry type="library" exported="" name="studentManagementSystem" level="project" />
-    <orderEntry type="library" exported="" name="lib1" level="project" />
+    <orderEntry type="library" name="lib1" level="project" />
+    <orderEntry type="library" exported="" name="lib2" level="project" />
   </component>
 </module>

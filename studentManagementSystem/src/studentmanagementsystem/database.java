@@ -22,7 +22,7 @@ public class database {
             
             Class.forName("com.mysql.cj.jdbc.Driver");
             
-            Connection connect = DriverManager.getConnection("jdbc:mysql://localhost/studentdata", "root", "");
+            Connection connect = DriverManager.getConnection("jdbc:mysql://localhost:3306/studentdata", "root", "");
             return connect;
         }catch(Exception e){e.printStackTrace();}
         return null;
